@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493595532989",
+    "firebase_url": "https://orynthapps-default-rtdb.firebaseio.com",
+    "project_id": "orynthapps",
+    "storage_bucket": "orynthapps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493595532989:android:955a60a79770c9d5f1e1d4",
+        "android_client_info": {
+          "package_name": "com.orynth.orynth_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493595532989-0nqpoao7j9b1s630ilcts9ata0g9ujdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orynth.orynth_apps",
+            "certificate_hash": "5bea80c7710013484b73278134610c75c222e263"
+          }
+        },
+        {
+          "client_id": "493595532989-ouh3t37f91a2c2fo49cuhrrdu2an6h4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-GULwOY6t2Ga0EE6uL45cu6Sgj0VpOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493595532989-ouh3t37f91a2c2fo49cuhrrdu2an6h4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

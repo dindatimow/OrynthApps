@@ -1,0 +1,9 @@
+12:13:13.477 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+12:13:13.794 [main] INFO com.firebase.server.forge.App$ - Listening at 0.0.0.0:9000
+12:13:28.250 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO com.firebase.core.namespace.NamespaceActor - orynthapps-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 285ms, init: 0ms
+12:13:28.540 [NamespaceSystem-blocking-namespace-operation-dispatcher-7] INFO com.firebase.core.namespace.StateManager - Namespace orynthapps-default-rtdb status Active to Active
+12:19:38.936 [FirebaseWorkerPool-1-3] WARN com.firebase.core.persistence.backend.dummy.EmulatorMetadataPersistence - Multiple projectIds are not recommended in single project mode. Requested 
+namespace fake-server, but the emulator is configured for orynthapps-default-rtdb. To 
+opt-out of single project mode add/set the singleProjectMode: false property in 
+the firebase.json emulators config. 
+12:19:38.948 [NamespaceSystem-akka.actor.default-dispatcher-11] INFO com.firebase.core.namespace.NamespaceActor - fake-server successfully activated FBKV (SurveyIdle(0)) wait: 5ms, init: 0ms

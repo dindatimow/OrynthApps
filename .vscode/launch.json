@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "orynth_apps (debug)",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define=FIREBASE_API_KEY=ISI_API_KEY_KAMU",
+        "--dart-define=FIREBASE_DB_URL=https://PROJECT_ID-default-rtdb.firebaseio.com"
+      ]
+    },
+    {
+      "name": "orynth_apps (release)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release",
+      "args": [
+        "--dart-define=FIREBASE_API_KEY=ISI_API_KEY_KAMU",
+        "--dart-define=FIREBASE_DB_URL=https://PROJECT_ID-default-rtdb.firebaseio.com"
+      ]
+    }
+  ]
+}
